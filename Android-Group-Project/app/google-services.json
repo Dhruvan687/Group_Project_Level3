@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "253743568993",
+    "firebase_url": "https://groupproject-level3-default-rtdb.firebaseio.com",
+    "project_id": "groupproject-level3",
+    "storage_bucket": "groupproject-level3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253743568993:android:de20ecd8410cdbd5dfb220",
+        "android_client_info": {
+          "package_name": "com.example.solehub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcW9n9cFkRSHFS3-Tp8tgohJVH1CXP720"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
